@@ -1,2 +1,3 @@
 # Cuntomer-Churn
-Análise da rotatividade de clientes.
+
+Projeto da Data Science Academy sobre a análise da rotatividade de clientes.
